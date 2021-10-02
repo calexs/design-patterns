@@ -1,0 +1,5 @@
+package FactoryTwo;
+
+interface Carro {
+
+}
