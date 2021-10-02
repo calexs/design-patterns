@@ -30,6 +30,17 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
+## Setup
+
+### Local Installation
+  1. Git clone this repo to your local machine:
+  ``` console
+     https://github.com/calexs/design-patterns.git
+  ```
+  2. Go to local repo folder
+  ``` console
+    cd design-patterns
+  ```
 ## Design Pattern #1
 
 - Name: Computer Factory
