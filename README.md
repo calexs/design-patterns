@@ -1,4 +1,5 @@
-![Badge](https://img.shields.io/badge/jdk-v11.0.11-yellowgreen) ![Badge](https://img.shields.io/badge/java-v1.8.0__301-red)
+[![Badge](https://img.shields.io/badge/jdk-v11.0.11-yellowgreen)](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) [![Badge](https://img.shields.io/badge/java-v1.8.0__301-red)](https://blogs.oracle.com/ebstech/post/jre-180-301-certified-with-ebs-releases-122-and-121)
+
 # Design Patterns N1 Activity (EC6)
 
 This is N1 activity of the Programming Language subject from Faculdade de Tecnologia Termomecanica (FTT)
@@ -32,15 +33,26 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Setup
 
+### Setting the environment
+
+1. Choose your favorite IDE (Mine is VS Code)
+2. Install the Java(TM) by Red Hat extension, currently I'm using version: 0.82.0. Here is the <a href=" https://marketplace.visualstudio.com/items?itemName=redhat.java">link</a> for VS Marketplace.
+3. Download <a href="https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html">`JDK 11`</a> or any further version.
+
 ### Local Installation
-  1. Git clone this repo to your local machine:
-  ``` console
-     https://github.com/calexs/design-patterns.git
-  ```
-  2. Go to the local repo folder
-  ``` console
-    cd design-patterns
-  ```
+
+1. Git clone this repo to your local machine:
+
+```console
+   https://github.com/calexs/design-patterns.git
+```
+
+2. Go to the local repo folder
+
+```console
+  cd design-patterns
+```
+
 ## Design Pattern #1
 
 - Name: Computer Factory
