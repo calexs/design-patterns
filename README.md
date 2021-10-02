@@ -28,3 +28,25 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+## Design Pattern #1
+
+- Name: Computer Factory
+- Type: Factory
+- Purpose: Create two simple PC and Server sub-classes
+- <a href="">UML Diagram</a>
+
+## Design Pattern #2
+
+- Name:
+- Type:
+- Purpose:
+- <a href="">UML Diagram</a>
+
+## Group Members
+
+- Carlos
+- Danillo
+- Giovanni
+- Gabriel
+- Kaio
