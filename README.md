@@ -36,7 +36,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ### Setting the environment
 
 1. Choose your favorite IDE (Mine is VS Code)
-2. Install the Java(TM) by Red Hat extension, currently I'm using version: 0.82.0. Here is the <a href=" https://marketplace.visualstudio.com/items?itemName=redhat.java">link</a> for VS Marketplace.
+2. Install the Java(TM) by Red Hat extension, currently I'm using version: 0.82.0. Here is the <a href="https://marketplace.visualstudio.com/items?itemName=redhat.java">link</a> for VS Marketplace.
 3. Download <a href="https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html">`JDK 11`</a> or any further version.
 
 ### Local Installation
