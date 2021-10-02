@@ -37,7 +37,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
   ``` console
      https://github.com/calexs/design-patterns.git
   ```
-  2. Go to local repo folder
+  2. Go to the local repo folder
   ``` console
     cd design-patterns
   ```
